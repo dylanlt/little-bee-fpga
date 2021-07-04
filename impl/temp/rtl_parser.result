@@ -1,0 +1,36 @@
+[
+ {
+  "InstFile" : "C:/projects/Tang-Nano-examples/example_lcd/lcd_pjt/src/TOP.v",
+  "InstLine" : 1,
+  "InstName" : "TOP",
+  "ModuleFile" : "C:/projects/Tang-Nano-examples/example_lcd/lcd_pjt/src/TOP.v",
+  "ModuleLine" : 1,
+  "ModuleName" : "TOP",
+  "SubInsts" : [
+   {
+    "InstFile" : "C:/projects/Tang-Nano-examples/example_lcd/lcd_pjt/src/TOP.v",
+    "InstLine" : 32,
+    "InstName" : "chip_pll",
+    "ModuleFile" : "C:/projects/Tang-Nano-examples/example_lcd/lcd_pjt/src/gowin_rpll/gowin_rpll.v",
+    "ModuleLine" : 9,
+    "ModuleName" : "Gowin_rPLL"
+   },
+   {
+    "InstFile" : "C:/projects/Tang-Nano-examples/example_lcd/lcd_pjt/src/TOP.v",
+    "InstLine" : 39,
+    "InstName" : "D1",
+    "ModuleFile" : "C:/projects/Tang-Nano-examples/example_lcd/lcd_pjt/src/VGAMod.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "VGAMod"
+   }
+  ]
+ },
+ {
+  "InstFile" : "C:/projects/Tang-Nano-examples/example_lcd/lcd_pjt/src/gowin_osc/gowin_osc.v",
+  "InstLine" : 8,
+  "InstName" : "Gowin_OSC",
+  "ModuleFile" : "C:/projects/Tang-Nano-examples/example_lcd/lcd_pjt/src/gowin_osc/gowin_osc.v",
+  "ModuleLine" : 8,
+  "ModuleName" : "Gowin_OSC"
+ }
+]

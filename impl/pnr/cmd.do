@@ -1,0 +1,10 @@
+-d C:\projects\Tang-Nano-examples\example_lcd\lcd_pjt\impl\gwsynthesis\lcd_pjt.vg
+-p GW1N-1-QFN48-6
+-pn GW1N-LV1QN48C6/I5
+-cst C:\projects\Tang-Nano-examples\example_lcd\lcd_pjt\src\rgb_psram.cst
+-cfg C:\projects\Tang-Nano-examples\example_lcd\lcd_pjt\impl\pnr\device.cfg
+-bit
+-tr
+-ph
+-timing
+-cst_error
